@@ -1,0 +1,601 @@
+number of players: command for player 1?: command for player 2?: name for player 1?: name for player 2?: number of iterations: ./dummy
+	player 0 started with  [K[31m♥[0m],[K♣],[T[31m♦[0m],[3[31m♦[0m],[A[31m♦[0m] 
+	player 0 ended with  [K[31m♥[0m],[K♣],[T[31m♦[0m],[3[31m♦[0m],[A[31m♦[0m]  score = 3571
+./sean
+	player 1 started with  [8[31m♦[0m],[8♣],[4[31m♦[0m],[6♣],[T♣] 
+	player 1 ended with  [8[31m♦[0m],[8♣],[4[31m♦[0m],[6♣],[6[31m♥[0m]  score = 3114
+./dummy
+	player 0 started with  [Q♠],[K[31m♥[0m],[A[31m♦[0m],[9[31m♦[0m],[J[31m♥[0m] 
+	player 0 ended with  [Q♠],[K[31m♥[0m],[A[31m♦[0m],[9[31m♦[0m],[J[31m♥[0m]  score = 6186
+./sean
+	player 1 started with  [7[31m♥[0m],[5♠],[J[31m♦[0m],[4♣],[4♠] 
+	player 1 ended with  [7[31m♥[0m],[5♠],[7[31m♦[0m],[4♣],[4♠]  score = 3191
+./dummy
+	player 0 started with  [K[31m♦[0m],[9[31m♦[0m],[A[31m♥[0m],[2[31m♦[0m],[T♣] 
+	player 0 ended with  [K[31m♦[0m],[9[31m♦[0m],[A[31m♥[0m],[2[31m♦[0m],[T♣]  score = 6272
+./sean
+	player 1 started with  [2♣],[T♠],[A[31m♦[0m],[8[31m♥[0m],[K[31m♥[0m] 
+	player 1 ended with  [2♣],[T♠],[A♠],[8[31m♥[0m],[K[31m♥[0m]  score = 6278
+./dummy
+	player 0 started with  [T[31m♦[0m],[T♣],[J[31m♦[0m],[9♠],[5♠] 
+	player 0 ended with  [T[31m♦[0m],[T♣],[J[31m♦[0m],[9♠],[5♠]  score = 4345
+./sean
+	player 1 started with  [6[31m♦[0m],[T♠],[6♣],[K[31m♦[0m],[6[31m♥[0m] 
+	player 1 ended with  [6[31m♦[0m],[T♠],[6♣],[A♠],[6[31m♥[0m]  score = 2141
+./dummy
+	player 0 started with  [8[31m♥[0m],[4[31m♦[0m],[7♣],[4♠],[6♠] 
+	player 0 ended with  [8[31m♥[0m],[4[31m♦[0m],[7♣],[4♠],[6♠]  score = 5726
+./sean
+	player 1 started with  [J♠],[Q[31m♦[0m],[A[31m♦[0m],[6♣],[4♣] 
+	player 1 ended with  [J♠],[Q[31m♦[0m],[K♠],[6♣],[4♣]  score = 6705
+./dummy
+	player 0 started with  [6♠],[K[31m♥[0m],[4♠],[6[31m♦[0m],[4♣] 
+	player 0 ended with  [6♠],[K[31m♥[0m],[4♠],[6[31m♦[0m],[4♣]  score = 3228
+./sean
+	player 1 started with  [A[31m♥[0m],[T♠],[Q[31m♥[0m],[T[31m♦[0m],[4[31m♦[0m] 
+	player 1 ended with  [J♠],[T♠],[Q[31m♥[0m],[T[31m♦[0m],[4[31m♦[0m]  score = 4311
+./dummy
+	player 0 started with  [8♠],[J♣],[9♣],[A♣],[2♣] 
+	player 0 ended with  [8♠],[J♣],[9♣],[A♣],[2♣]  score = 6503
+./sean
+	player 1 started with  [8[31m♦[0m],[3[31m♦[0m],[6[31m♦[0m],[4[31m♦[0m],[3♠] 
+	player 1 ended with  [Q♠],[3[31m♦[0m],[6[31m♦[0m],[4[31m♦[0m],[3♠]  score = 5877
+./dummy
+	player 0 started with  [8[31m♥[0m],[2[31m♥[0m],[5[31m♦[0m],[5♣],[6♣] 
+	player 0 ended with  [8[31m♥[0m],[2[31m♥[0m],[5[31m♦[0m],[5♣],[6♣]  score = 5512
+./sean
+	player 1 started with  [8[31m♦[0m],[5[31m♦[0m],[2♣],[9[31m♥[0m],[A♠] 
+	player 1 ended with  [8[31m♦[0m],[5[31m♦[0m],[2♣],[9[31m♥[0m],[9♣]  score = 4622
+./dummy
+	player 0 started with  [J[31m♥[0m],[5[31m♥[0m],[T♠],[3[31m♥[0m],[4[31m♥[0m] 
+	player 0 ended with  [J[31m♥[0m],[5[31m♥[0m],[T♠],[3[31m♥[0m],[4[31m♥[0m]  score = 7268
+./sean
+	player 1 started with  [4[31m♥[0m],[K[31m♦[0m],[K♠],[2♠],[5[31m♦[0m] 
+	player 1 ended with  [4[31m♥[0m],[7[31m♥[0m],[K♠],[2♠],[5[31m♦[0m]  score = 7000
+./dummy
+	player 0 started with  [K[31m♥[0m],[A[31m♥[0m],[J♠],[Q[31m♦[0m],[K[31m♦[0m] 
+	player 0 ended with  [K[31m♥[0m],[A[31m♥[0m],[J♠],[Q[31m♦[0m],[K[31m♦[0m]  score = 3546
+./sean
+	player 1 started with  [A[31m♥[0m],[2♠],[4[31m♦[0m],[A♣],[7[31m♦[0m] 
+	player 1 ended with  [A[31m♥[0m],[2♠],[4[31m♦[0m],[8[31m♥[0m],[7[31m♦[0m]  score = 6653
+./dummy
+	player 0 started with  [4♠],[K♣],[3♣],[7[31m♥[0m],[8[31m♥[0m] 
+	player 0 ended with  [4♠],[K♣],[3♣],[7[31m♥[0m],[8[31m♥[0m]  score = 6980
+./sean
+	player 1 started with  [4♠],[J♠],[8[31m♥[0m],[T[31m♥[0m],[K[31m♥[0m] 
+	player 1 ended with  [4♠],[J♠],[8[31m♥[0m],[T[31m♥[0m],[K♣]  score = 6808
+./dummy
+	player 0 started with  [J[31m♥[0m],[3♠],[6[31m♥[0m],[3♣],[4♠] 
+	player 0 ended with  [J[31m♥[0m],[3♠],[6[31m♥[0m],[3♣],[4♠]  score = 5905
+./sean
+	player 1 started with  [T[31m♦[0m],[3[31m♥[0m],[A♠],[K[31m♥[0m],[T[31m♥[0m] 
+	player 1 ended with  [T[31m♦[0m],[3[31m♥[0m],[6[31m♦[0m],[K[31m♥[0m],[T[31m♥[0m]  score = 4298
+./dummy
+	player 0 started with  [A♠],[7[31m♦[0m],[J♣],[4♠],[7[31m♥[0m] 
+	player 0 ended with  [A♠],[7[31m♦[0m],[J♣],[4♠],[7[31m♥[0m]  score = 4890
+./sean
+	player 1 started with  [J[31m♥[0m],[7♣],[7[31m♦[0m],[5♠],[K♠] 
+	player 1 ended with  [J[31m♥[0m],[7♣],[7[31m♦[0m],[5♠],[5[31m♥[0m]  score = 3175
+./dummy
+	player 0 started with  [K♠],[Q[31m♦[0m],[A[31m♦[0m],[T♠],[J♣] 
+	player 0 ended with  [K♠],[Q[31m♦[0m],[A[31m♦[0m],[T♠],[J♣]  score = 1600
+./sean
+	player 1 started with  [6♠],[2[31m♥[0m],[2♠],[3[31m♥[0m],[6[31m♥[0m] 
+	player 1 ended with  [6♠],[2[31m♥[0m],[2♠],[3[31m♥[0m],[K[31m♥[0m]  score = 6062
+./dummy
+	player 0 started with  [6♠],[9♠],[3[31m♥[0m],[4♣],[A♣] 
+	player 0 ended with  [6♠],[9♠],[3[31m♥[0m],[4♣],[A♣]  score = 6638
+./sean
+	player 1 started with  [J♠],[7[31m♦[0m],[K♣],[Q♣],[J[31m♥[0m] 
+	player 1 ended with  [J♠],[7[31m♦[0m],[A♠],[Q♣],[J[31m♥[0m]  score = 3999
+./dummy
+	player 0 started with  [J[31m♥[0m],[Q♠],[4♣],[Q♣],[4[31m♥[0m] 
+	player 0 ended with  [J[31m♥[0m],[Q♠],[4♣],[Q♣],[4[31m♥[0m]  score = 2800
+./sean
+	player 1 started with  [2[31m♦[0m],[6♣],[3[31m♥[0m],[Q[31m♦[0m],[T[31m♦[0m] 
+	player 1 ended with  [2[31m♦[0m],[6♣],[3[31m♥[0m],[9[31m♥[0m],[T[31m♦[0m]  score = 7371
+./dummy
+	player 0 started with  [T[31m♦[0m],[2♣],[K♣],[4♠],[3♠] 
+	player 0 ended with  [T[31m♦[0m],[2♣],[K♣],[4♠],[3♠]  score = 6937
+./sean
+	player 1 started with  [T[31m♥[0m],[A♠],[Q[31m♦[0m],[9♣],[T[31m♦[0m] 
+	player 1 ended with  [T[31m♥[0m],[8[31m♦[0m],[Q[31m♦[0m],[9♣],[T[31m♦[0m]  score = 4314
+./dummy
+	player 0 started with  [J♠],[3[31m♦[0m],[5[31m♥[0m],[A♠],[6[31m♦[0m] 
+	player 0 ended with  [J♠],[3[31m♦[0m],[5[31m♥[0m],[A♠],[6[31m♦[0m]  score = 6545
+./sean
+	player 1 started with  [9[31m♥[0m],[A[31m♥[0m],[9[31m♦[0m],[T♣],[J♠] 
+	player 1 ended with  [9[31m♥[0m],[6♠],[9[31m♦[0m],[T♣],[J♠]  score = 4564
+./dummy
+	player 0 started with  [5♠],[K[31m♥[0m],[6♣],[7♠],[A[31m♦[0m] 
+	player 0 ended with  [5♠],[K[31m♥[0m],[6♣],[7♠],[A[31m♦[0m]  score = 6330
+./sean
+	player 1 started with  [T[31m♥[0m],[7♠],[2[31m♦[0m],[J[31m♦[0m],[K[31m♥[0m] 
+	player 1 ended with  [T[31m♥[0m],[7♠],[2[31m♦[0m],[J[31m♦[0m],[Q♣]  score = 7024
+./dummy
+	player 0 started with  [5[31m♥[0m],[A♠],[A[31m♥[0m],[5♠],[6[31m♥[0m] 
+	player 0 ended with  [5[31m♥[0m],[A♠],[A[31m♥[0m],[5♠],[6[31m♥[0m]  score = 2563
+./sean
+	player 1 started with  [8[31m♦[0m],[9[31m♦[0m],[3[31m♦[0m],[A[31m♥[0m],[7[31m♥[0m] 
+	player 1 ended with  [8[31m♦[0m],[9[31m♦[0m],[3[31m♦[0m],[4♠],[7[31m♥[0m]  score = 7417
+./dummy
+	player 0 started with  [A[31m♥[0m],[5[31m♦[0m],[T♠],[A♣],[8[31m♥[0m] 
+	player 0 ended with  [A[31m♥[0m],[5[31m♦[0m],[T♠],[A♣],[8[31m♥[0m]  score = 3471
+./sean
+	player 1 started with  [J[31m♦[0m],[3♣],[K♠],[5[31m♥[0m],[2♣] 
+	player 1 ended with  [J[31m♦[0m],[3♣],[9[31m♦[0m],[5[31m♥[0m],[2♣]  score = 7305
+./dummy
+	player 0 started with  [2♠],[5[31m♥[0m],[A♣],[J♠],[4♣] 
+	player 0 ended with  [2♠],[5[31m♥[0m],[A♣],[J♠],[4♣]  score = 6551
+./sean
+	player 1 started with  [K♠],[7♣],[Q♣],[4♣],[4[31m♥[0m] 
+	player 1 ended with  [7♠],[7♣],[Q♣],[4♣],[4[31m♥[0m]  score = 3185
+./dummy
+	player 0 started with  [A♣],[Q♠],[Q[31m♥[0m],[2♠],[9♠] 
+	player 0 ended with  [A♣],[Q♠],[Q[31m♥[0m],[2♠],[9♠]  score = 3799
+./sean
+	player 1 started with  [3[31m♥[0m],[7♣],[7[31m♥[0m],[6♣],[4♠] 
+	player 1 ended with  [3[31m♥[0m],[K[31m♥[0m],[7[31m♥[0m],[6♣],[4♠]  score = 6996
+./dummy
+	player 0 started with  [J[31m♥[0m],[5♣],[5♠],[J♠],[2[31m♦[0m] 
+	player 0 ended with  [J[31m♥[0m],[5♣],[5♠],[J♠],[2[31m♦[0m]  score = 2896
+./sean
+	player 1 started with  [2[31m♦[0m],[8[31m♦[0m],[4[31m♦[0m],[K[31m♦[0m],[J♣] 
+	player 1 ended with  [2[31m♦[0m],[8[31m♦[0m],[4[31m♦[0m],[J♠],[J♣]  score = 4184
+./dummy
+	player 0 started with  [6[31m♦[0m],[8[31m♦[0m],[K[31m♦[0m],[3[31m♦[0m],[Q[31m♥[0m] 
+	player 0 ended with  [6[31m♦[0m],[8[31m♦[0m],[K[31m♦[0m],[3[31m♦[0m],[Q[31m♥[0m]  score = 6770
+./sean
+	player 1 started with  [3♠],[2♣],[3♣],[8[31m♦[0m],[K[31m♥[0m] 
+	player 1 ended with  [3♠],[2♣],[3♣],[8[31m♦[0m],[9♣]  score = 5935
+./dummy
+	player 0 started with  [A♠],[9[31m♦[0m],[T[31m♦[0m],[7♣],[J♣] 
+	player 0 ended with  [A♠],[9[31m♦[0m],[T[31m♦[0m],[7♣],[J♣]  score = 6471
+./sean
+	player 1 started with  [8♣],[4♣],[4♠],[T♣],[4[31m♥[0m] 
+	player 1 ended with  [8♣],[4♣],[4♠],[4[31m♦[0m],[4[31m♥[0m]  score = 137
+./dummy
+	player 0 started with  [5♣],[7♣],[6[31m♦[0m],[2♣],[9[31m♥[0m] 
+	player 0 ended with  [5♣],[7♣],[6[31m♦[0m],[2♣],[9[31m♥[0m]  score = 7432
+./sean
+	player 1 started with  [J[31m♥[0m],[4[31m♥[0m],[J♣],[7♣],[8[31m♥[0m] 
+	player 1 ended with  [J[31m♥[0m],[4[31m♥[0m],[8[31m♦[0m],[7♣],[8[31m♥[0m]  score = 4797
+./dummy
+	player 0 started with  [2[31m♦[0m],[5[31m♦[0m],[8♠],[K♠],[4♠] 
+	player 0 ended with  [2[31m♦[0m],[5[31m♦[0m],[8♠],[K♠],[4♠]  score = 6990
+./sean
+	player 1 started with  [4[31m♥[0m],[5♣],[3[31m♥[0m],[K[31m♦[0m],[T[31m♦[0m] 
+	player 1 ended with  [4[31m♥[0m],[5♣],[3[31m♥[0m],[9[31m♦[0m],[T[31m♦[0m]  score = 7372
+./dummy
+	player 0 started with  [5♠],[J[31m♥[0m],[7♠],[3[31m♦[0m],[4♠] 
+	player 0 ended with  [5♠],[J[31m♥[0m],[7♠],[3[31m♦[0m],[4♠]  score = 7333
+./sean
+	player 1 started with  [2[31m♥[0m],[7♠],[3♣],[J[31m♥[0m],[5[31m♦[0m] 
+	player 1 ended with  [2[31m♥[0m],[7♠],[3♣],[3♠],[5[31m♦[0m]  score = 5960
+./dummy
+	player 0 started with  [K[31m♥[0m],[5[31m♦[0m],[9[31m♦[0m],[6♣],[A♣] 
+	player 0 ended with  [K[31m♥[0m],[5[31m♦[0m],[9[31m♦[0m],[6♣],[A♣]  score = 6305
+./sean
+	player 1 started with  [7[31m♦[0m],[K♣],[4♠],[5♣],[Q♠] 
+	player 1 ended with  [7[31m♦[0m],[K[31m♥[0m],[4♠],[5♣],[Q♠]  score = 6782
+./dummy
+	player 0 started with  [4♣],[A♣],[J[31m♥[0m],[5[31m♦[0m],[J[31m♦[0m] 
+	player 0 ended with  [4♣],[A♣],[J[31m♥[0m],[5[31m♦[0m],[J[31m♦[0m]  score = 4035
+./sean
+	player 1 started with  [2♣],[J[31m♦[0m],[A♠],[8[31m♦[0m],[4♣] 
+	player 1 ended with  [2♣],[J[31m♦[0m],[A♣],[8[31m♦[0m],[4♣]  score = 6532
+./dummy
+	player 0 started with  [T♠],[T♣],[J♠],[7♠],[6[31m♥[0m] 
+	player 0 ended with  [T♠],[T♣],[J♠],[7♠],[6[31m♥[0m]  score = 4355
+./sean
+	player 1 started with  [7♣],[K[31m♥[0m],[Q♠],[6♠],[7[31m♦[0m] 
+	player 1 ended with  [7♣],[8♠],[Q♠],[6♠],[7[31m♦[0m]  score = 4987
+./dummy
+	player 0 started with  [K♣],[8♣],[4♣],[5[31m♦[0m],[8♠] 
+	player 0 ended with  [K♣],[8♣],[4♣],[5[31m♦[0m],[8♠]  score = 4740
+./sean
+	player 1 started with  [9♠],[Q♣],[T♠],[J♠],[6♣] 
+	player 1 ended with  [9♠],[A[31m♦[0m],[T♠],[J♠],[6♣]  score = 6472
+./dummy
+	player 0 started with  [2[31m♦[0m],[A♠],[4♠],[K♠],[6[31m♦[0m] 
+	player 0 ended with  [2[31m♦[0m],[A♠],[4♠],[K♠],[6[31m♦[0m]  score = 6344
+./sean
+	player 1 started with  [3♣],[A[31m♦[0m],[5[31m♦[0m],[K[31m♥[0m],[9[31m♥[0m] 
+	player 1 ended with  [3♣],[8[31m♥[0m],[5[31m♦[0m],[K[31m♥[0m],[9[31m♥[0m]  score = 6948
+./dummy
+	player 0 started with  [5[31m♦[0m],[3♣],[6[31m♦[0m],[T♣],[8♣] 
+	player 0 ended with  [5[31m♦[0m],[3♣],[6[31m♦[0m],[T♣],[8♣]  score = 7387
+./sean
+	player 1 started with  [3♠],[T♣],[J♠],[Q♣],[6[31m♦[0m] 
+	player 1 ended with  [3♠],[T♣],[J♠],[Q♠],[6[31m♦[0m]  score = 7027
+./dummy
+	player 0 started with  [T[31m♥[0m],[Q♣],[A[31m♥[0m],[8♣],[8[31m♦[0m] 
+	player 0 ended with  [T[31m♥[0m],[Q♣],[A[31m♥[0m],[8♣],[8[31m♦[0m]  score = 4657
+./sean
+	player 1 started with  [J♣],[2♠],[7[31m♦[0m],[5[31m♥[0m],[A[31m♦[0m] 
+	player 1 ended with  [J♣],[2♠],[7[31m♦[0m],[5[31m♥[0m],[J[31m♥[0m]  score = 4192
+./dummy
+	player 0 started with  [8♣],[9♠],[4♠],[A[31m♥[0m],[9♣] 
+	player 0 ended with  [8♣],[9♠],[4♠],[A[31m♥[0m],[9♣]  score = 4463
+./sean
+	player 1 started with  [K[31m♥[0m],[6♣],[3[31m♥[0m],[4[31m♥[0m],[9[31m♦[0m] 
+	player 1 ended with  [6[31m♦[0m],[6♣],[3[31m♥[0m],[4[31m♥[0m],[9[31m♦[0m]  score = 5283
+./dummy
+	player 0 started with  [J[31m♥[0m],[4[31m♥[0m],[K[31m♦[0m],[T[31m♦[0m],[6♠] 
+	player 0 ended with  [J[31m♥[0m],[4[31m♥[0m],[K[31m♦[0m],[T[31m♦[0m],[6♠]  score = 6817
+./sean
+	player 1 started with  [A♣],[J♣],[3[31m♥[0m],[J♠],[J[31m♦[0m] 
+	player 1 ended with  [5♠],[J♣],[3[31m♥[0m],[J♠],[J[31m♦[0m]  score = 1869
+./dummy
+	player 0 started with  [T[31m♥[0m],[3[31m♦[0m],[2♣],[7♠],[J♠] 
+	player 0 ended with  [T[31m♥[0m],[3[31m♦[0m],[2♣],[7♠],[J♠]  score = 7261
+./sean
+	player 1 started with  [J♠],[7[31m♥[0m],[5♣],[A♣],[T♠] 
+	player 1 ended with  [J♠],[7[31m♥[0m],[5♣],[7[31m♦[0m],[T♠]  score = 5005
+./dummy
+	player 0 started with  [J♣],[T♠],[J[31m♦[0m],[A♠],[Q[31m♥[0m] 
+	player 0 ended with  [J♣],[T♠],[J[31m♦[0m],[A♠],[Q[31m♥[0m]  score = 3996
+./sean
+	player 1 started with  [T♣],[7[31m♥[0m],[Q[31m♦[0m],[6♣],[6♠] 
+	player 1 ended with  [T♣],[7[31m♥[0m],[8[31m♦[0m],[6♣],[6♠]  score = 5256
+./dummy
+	player 0 started with  [Q♣],[6♣],[5♠],[5♣],[7♠] 
+	player 0 ended with  [Q♣],[6♣],[5♠],[5♣],[7♠]  score = 5432
+./sean
+	player 1 started with  [T[31m♦[0m],[J♠],[4♣],[6♠],[8♠] 
+	player 1 ended with  [T[31m♦[0m],[K[31m♦[0m],[4♣],[6♠],[8♠]  score = 6909
+./dummy
+	player 0 started with  [4[31m♦[0m],[6♠],[A[31m♥[0m],[J[31m♥[0m],[5♠] 
+	player 0 ended with  [4[31m♦[0m],[6♠],[A[31m♥[0m],[J[31m♥[0m],[5♠]  score = 6544
+./sean
+	player 1 started with  [T[31m♦[0m],[K♠],[8[31m♥[0m],[3♣],[A♣] 
+	player 1 ended with  [T[31m♦[0m],[K♠],[8[31m♥[0m],[3♣],[2[31m♥[0m]  score = 6917
+./dummy
+	player 0 started with  [K[31m♦[0m],[A[31m♥[0m],[4[31m♦[0m],[A♠],[4[31m♥[0m] 
+	player 0 ended with  [K[31m♦[0m],[A[31m♥[0m],[4[31m♦[0m],[A♠],[4[31m♥[0m]  score = 2567
+./sean
+	player 1 started with  [5♠],[K[31m♦[0m],[K[31m♥[0m],[7♣],[J[31m♦[0m] 
+	player 1 ended with  [5♠],[A[31m♥[0m],[K[31m♥[0m],[7♣],[J[31m♦[0m]  score = 6252
+./dummy
+	player 0 started with  [3[31m♦[0m],[6[31m♥[0m],[2[31m♥[0m],[Q[31m♦[0m],[5♠] 
+	player 0 ended with  [3[31m♦[0m],[6[31m♥[0m],[2[31m♥[0m],[Q[31m♦[0m],[5♠]  score = 7214
+./sean
+	player 1 started with  [6[31m♥[0m],[K[31m♦[0m],[3♠],[8♣],[4♣] 
+	player 1 ended with  [6[31m♥[0m],[Q♠],[3♠],[8♣],[4♣]  score = 7195
+./dummy
+	player 0 started with  [A[31m♥[0m],[4[31m♦[0m],[8♠],[3[31m♥[0m],[6[31m♦[0m] 
+	player 0 ended with  [A[31m♥[0m],[4[31m♦[0m],[8♠],[3[31m♥[0m],[6[31m♦[0m]  score = 6658
+./sean
+	player 1 started with  [T[31m♦[0m],[6[31m♥[0m],[3[31m♥[0m],[Q♠],[J[31m♦[0m] 
+	player 1 ended with  [T[31m♦[0m],[6[31m♥[0m],[3[31m♥[0m],[A[31m♦[0m],[J[31m♦[0m]  score = 6490
+./dummy
+	player 0 started with  [9[31m♥[0m],[4[31m♥[0m],[T♠],[4♠],[A♣] 
+	player 0 ended with  [9[31m♥[0m],[4[31m♥[0m],[T♠],[4♠],[A♣]  score = 5553
+./sean
+	player 1 started with  [K[31m♥[0m],[6♠],[9♣],[T♠],[7[31m♥[0m] 
+	player 1 ended with  [Q♣],[6♠],[9♣],[T♠],[7[31m♥[0m]  score = 7097
+./dummy
+	player 0 started with  [3[31m♦[0m],[2♠],[4[31m♦[0m],[7[31m♥[0m],[6[31m♦[0m] 
+	player 0 ended with  [3[31m♦[0m],[2♠],[4[31m♦[0m],[7[31m♥[0m],[6[31m♦[0m]  score = 7461
+./sean
+	player 1 started with  [7♠],[8[31m♦[0m],[2♣],[K[31m♥[0m],[Q[31m♥[0m] 
+	player 1 ended with  [7♠],[8[31m♦[0m],[2♣],[9[31m♦[0m],[Q[31m♥[0m]  score = 7151
+./dummy
+	player 0 started with  [4♠],[A♠],[Q♣],[3♠],[4[31m♥[0m] 
+	player 0 ended with  [4♠],[A♠],[Q♣],[3♠],[4[31m♥[0m]  score = 5543
+./sean
+	player 1 started with  [8[31m♥[0m],[A[31m♦[0m],[J[31m♦[0m],[T[31m♦[0m],[3♣] 
+	player 1 ended with  [8[31m♥[0m],[2♣],[J[31m♦[0m],[T[31m♦[0m],[3♣]  score = 7251
+./dummy
+	player 0 started with  [3♠],[2[31m♥[0m],[9[31m♥[0m],[A♣],[4[31m♦[0m] 
+	player 0 ended with  [3♠],[2[31m♥[0m],[9[31m♥[0m],[A♣],[4[31m♦[0m]  score = 6644
+./sean
+	player 1 started with  [5[31m♦[0m],[6♠],[6[31m♦[0m],[8♠],[J♣] 
+	player 1 ended with  [5[31m♦[0m],[6♠],[6[31m♦[0m],[8♠],[7[31m♥[0m]  score = 5286
+./dummy
+	player 0 started with  [T♠],[2[31m♦[0m],[5♠],[6[31m♥[0m],[T[31m♥[0m] 
+	player 0 ended with  [T♠],[2[31m♦[0m],[5♠],[6[31m♥[0m],[T[31m♥[0m]  score = 4418
+./sean
+	player 1 started with  [3♠],[J♣],[8[31m♥[0m],[8[31m♦[0m],[4♠] 
+	player 1 ended with  [3♠],[2♠],[8[31m♥[0m],[8[31m♦[0m],[4♠]  score = 4865
+./dummy
+	player 0 started with  [6♣],[T♣],[K[31m♥[0m],[7♣],[2♠] 
+	player 0 ended with  [6♣],[T♣],[K[31m♥[0m],[7♣],[2♠]  score = 6921
+./sean
+	player 1 started with  [5♣],[3[31m♦[0m],[Q♠],[2♠],[3♣] 
+	player 1 ended with  [5♣],[3[31m♦[0m],[8♣],[2♠],[3♣]  score = 5954
+./dummy
+	player 0 started with  [K♠],[5[31m♦[0m],[9[31m♦[0m],[J♣],[7♠] 
+	player 0 ended with  [K♠],[5[31m♦[0m],[9[31m♦[0m],[J♣],[7♠]  score = 6833
+./sean
+	player 1 started with  [7♣],[A[31m♦[0m],[J♣],[T[31m♦[0m],[6[31m♦[0m] 
+	player 1 ended with  [7♣],[A♠],[J♣],[T[31m♦[0m],[6[31m♦[0m]  score = 6483
+./dummy
+	player 0 started with  [K♠],[2[31m♦[0m],[8[31m♥[0m],[J♠],[A[31m♥[0m] 
+	player 0 ended with  [K♠],[2[31m♦[0m],[8[31m♥[0m],[J♠],[A[31m♥[0m]  score = 6250
+./sean
+	player 1 started with  [2♣],[6[31m♦[0m],[8♠],[5[31m♦[0m],[5♣] 
+	player 1 ended with  [2♣],[6[31m♦[0m],[6[31m♥[0m],[5[31m♦[0m],[5♣]  score = 3226
+./dummy
+	player 0 started with  [8♣],[A♠],[3♣],[7[31m♥[0m],[Q♣] 
+	player 0 ended with  [8♣],[A♠],[3♣],[7[31m♥[0m],[Q♣]  score = 6438
+./sean
+	player 1 started with  [4♣],[Q[31m♥[0m],[8♠],[6[31m♦[0m],[5[31m♦[0m] 
+	player 1 ended with  [4♣],[A[31m♦[0m],[8♠],[6[31m♦[0m],[5[31m♦[0m]  score = 6655
+./dummy
+	player 0 started with  [5[31m♥[0m],[A♠],[9♣],[Q♣],[2[31m♥[0m] 
+	player 0 ended with  [5[31m♥[0m],[A♠],[9♣],[Q♣],[2[31m♥[0m]  score = 6431
+./sean
+	player 1 started with  [A♠],[8♠],[9[31m♦[0m],[Q[31m♦[0m],[9[31m♥[0m] 
+	player 1 ended with  [2♠],[8♠],[9[31m♦[0m],[Q[31m♦[0m],[9[31m♥[0m]  score = 4546
+./dummy
+	player 0 started with  [6[31m♦[0m],[2♠],[3♣],[4[31m♥[0m],[8[31m♦[0m] 
+	player 0 ended with  [6[31m♦[0m],[2♠],[3♣],[4[31m♥[0m],[8[31m♦[0m]  score = 7457
+./sean
+	player 1 started with  [7♠],[9[31m♦[0m],[5♣],[8♣],[A[31m♥[0m] 
+	player 1 ended with  [7♠],[9[31m♦[0m],[5♣],[8♣],[T[31m♥[0m]  score = 7342
+./dummy
+	player 0 started with  [8[31m♦[0m],[K♣],[9♣],[2[31m♦[0m],[3♠] 
+	player 0 ended with  [8[31m♦[0m],[K♣],[9♣],[2[31m♦[0m],[3♠]  score = 6952
+./sean
+	player 1 started with  [3[31m♥[0m],[7♠],[J♣],[4♣],[8[31m♦[0m] 
+	player 1 ended with  [3[31m♥[0m],[7♠],[Q[31m♦[0m],[4♣],[8[31m♦[0m]  score = 7189
+./dummy
+	player 0 started with  [T♠],[4[31m♦[0m],[J[31m♥[0m],[9♠],[5♣] 
+	player 0 ended with  [T♠],[4[31m♦[0m],[J[31m♥[0m],[9♠],[5♣]  score = 7231
+./sean
+	player 1 started with  [3♠],[Q[31m♦[0m],[6♣],[4[31m♦[0m],[8[31m♥[0m] 
+	player 1 ended with  [3♠],[T[31m♥[0m],[6♣],[4[31m♦[0m],[8[31m♥[0m]  score = 7389
+./dummy
+	player 0 started with  [6[31m♦[0m],[T[31m♥[0m],[J[31m♥[0m],[2[31m♥[0m],[J♠] 
+	player 0 ended with  [6[31m♦[0m],[T[31m♥[0m],[J[31m♥[0m],[2[31m♥[0m],[J♠]  score = 4143
+./sean
+	player 1 started with  [T[31m♦[0m],[T♣],[6♣],[9[31m♥[0m],[6[31m♦[0m] 
+	player 1 ended with  [T[31m♦[0m],[Q[31m♥[0m],[6♣],[9[31m♥[0m],[6[31m♦[0m]  score = 5194
+./dummy
+	player 0 started with  [9♠],[Q[31m♥[0m],[T♣],[Q[31m♦[0m],[8[31m♦[0m] 
+	player 0 ended with  [9♠],[Q[31m♥[0m],[T♣],[Q[31m♦[0m],[8[31m♦[0m]  score = 3902
+./sean
+	player 1 started with  [T[31m♥[0m],[T♣],[6♣],[8[31m♦[0m],[K♠] 
+	player 1 ended with  [T[31m♥[0m],[T♣],[6♣],[8[31m♦[0m],[9♣]  score = 4371
+./dummy
+	player 0 started with  [T[31m♦[0m],[K♠],[5♣],[A♣],[Q♠] 
+	player 0 ended with  [T[31m♦[0m],[K♠],[5♣],[A♣],[Q♠]  score = 6198
+./sean
+	player 1 started with  [6[31m♦[0m],[K♣],[J♠],[2♣],[T♣] 
+	player 1 ended with  [6[31m♦[0m],[2♠],[J♠],[2♣],[T♣]  score = 6105
+./dummy
+	player 0 started with  [T[31m♥[0m],[A[31m♦[0m],[5♠],[3♠],[Q[31m♦[0m] 
+	player 0 ended with  [T[31m♥[0m],[A[31m♦[0m],[5♠],[3♠],[Q[31m♦[0m]  score = 6409
+./sean
+	player 1 started with  [2[31m♦[0m],[T♣],[8[31m♦[0m],[T[31m♦[0m],[3[31m♦[0m] 
+	player 1 ended with  [2[31m♦[0m],[5♠],[8[31m♦[0m],[T[31m♦[0m],[3[31m♦[0m]  score = 7394
+./dummy
+	player 0 started with  [9♠],[6♣],[K♣],[9[31m♥[0m],[9[31m♦[0m] 
+	player 0 ended with  [9♠],[6♣],[K♣],[9[31m♥[0m],[9[31m♦[0m]  score = 1956
+./sean
+	player 1 started with  [Q[31m♦[0m],[T[31m♦[0m],[A♠],[7♠],[7♣] 
+	player 1 ended with  [Q[31m♦[0m],[T[31m♦[0m],[Q[31m♥[0m],[7♠],[7♣]  score = 2768
+./dummy
+	player 0 started with  [Q♣],[4♠],[7♠],[2[31m♥[0m],[K[31m♥[0m] 
+	player 0 ended with  [Q♣],[4♠],[7♠],[2[31m♥[0m],[K[31m♥[0m]  score = 6786
+./sean
+	player 1 started with  [Q[31m♦[0m],[5[31m♦[0m],[7[31m♥[0m],[2[31m♦[0m],[K[31m♥[0m] 
+	player 1 ended with  [Q[31m♦[0m],[5[31m♦[0m],[7[31m♥[0m],[2[31m♦[0m],[5♠]  score = 5435
+./dummy
+	player 0 started with  [6♠],[6[31m♦[0m],[J[31m♦[0m],[J♣],[7[31m♦[0m] 
+	player 0 ended with  [6♠],[6[31m♦[0m],[J[31m♦[0m],[J♣],[7[31m♦[0m]  score = 2881
+./sean
+	player 1 started with  [3♠],[T♠],[3[31m♥[0m],[J[31m♥[0m],[5[31m♥[0m] 
+	player 1 ended with  [3♠],[T♠],[3[31m♥[0m],[J♠],[5[31m♥[0m]  score = 5886
+./dummy
+	player 0 started with  [7[31m♥[0m],[9[31m♥[0m],[9[31m♦[0m],[8[31m♦[0m],[6♠] 
+	player 0 ended with  [7[31m♥[0m],[9[31m♥[0m],[9[31m♦[0m],[8[31m♦[0m],[6♠]  score = 4611
+./sean
+	player 1 started with  [A♠],[8[31m♦[0m],[A♣],[Q♠],[J[31m♥[0m] 
+	player 1 ended with  [A♠],[8[31m♦[0m],[K♠],[Q♠],[J[31m♥[0m]  score = 6187
+./dummy
+	player 0 started with  [2[31m♥[0m],[K[31m♥[0m],[T[31m♦[0m],[5♠],[8[31m♦[0m] 
+	player 0 ended with  [2[31m♥[0m],[K[31m♥[0m],[T[31m♦[0m],[5♠],[8[31m♦[0m]  score = 6914
+./sean
+	player 1 started with  [J♠],[Q♣],[3[31m♥[0m],[8♠],[7♣] 
+	player 1 ended with  [J♠],[J[31m♦[0m],[3[31m♥[0m],[8♠],[7♣]  score = 4174
+./dummy
+	player 0 started with  [7[31m♥[0m],[6[31m♥[0m],[K♣],[T♠],[3♣] 
+	player 0 ended with  [7[31m♥[0m],[6[31m♥[0m],[K♣],[T♠],[3♣]  score = 6920
+./sean
+	player 1 started with  [2[31m♥[0m],[A♠],[5[31m♥[0m],[5♣],[3[31m♦[0m] 
+	player 1 ended with  [2[31m♥[0m],[J[31m♥[0m],[5[31m♥[0m],[5♣],[3[31m♦[0m]  score = 5469
+./dummy
+	player 0 started with  [K[31m♦[0m],[J♣],[3♣],[7[31m♥[0m],[T[31m♥[0m] 
+	player 0 ended with  [K[31m♦[0m],[J♣],[3♣],[7[31m♥[0m],[T[31m♥[0m]  score = 6814
+./sean
+	player 1 started with  [8♣],[K♣],[A♠],[J[31m♦[0m],[9[31m♥[0m] 
+	player 1 ended with  [8♣],[K♣],[T♠],[J[31m♦[0m],[9[31m♥[0m]  score = 6798
+./dummy
+	player 0 started with  [2♣],[8[31m♥[0m],[6[31m♥[0m],[A[31m♦[0m],[4♣] 
+	player 0 ended with  [2♣],[8[31m♥[0m],[6[31m♥[0m],[A[31m♦[0m],[4♣]  score = 6659
+./sean
+	player 1 started with  [5[31m♦[0m],[6[31m♦[0m],[4♠],[J♠],[6♠] 
+	player 1 ended with  [5[31m♦[0m],[6[31m♦[0m],[4♠],[8[31m♦[0m],[6♠]  score = 5290
+./dummy
+	player 0 started with  [J[31m♥[0m],[9[31m♥[0m],[T♠],[2[31m♦[0m],[T♣] 
+	player 0 ended with  [J[31m♥[0m],[9[31m♥[0m],[T♠],[2[31m♦[0m],[T♣]  score = 4348
+./sean
+	player 1 started with  [8[31m♥[0m],[6[31m♦[0m],[3♠],[4[31m♥[0m],[6♠] 
+	player 1 ended with  [5[31m♥[0m],[6[31m♦[0m],[3♠],[4[31m♥[0m],[6♠]  score = 5302
+./dummy
+	player 0 started with  [A♣],[2[31m♦[0m],[8♠],[5[31m♦[0m],[9[31m♦[0m] 
+	player 0 ended with  [A♣],[2[31m♦[0m],[8♠],[5[31m♦[0m],[9[31m♦[0m]  score = 6621
+./sean
+	player 1 started with  [7♠],[4♠],[5♣],[7[31m♦[0m],[J[31m♦[0m] 
+	player 1 ended with  [7♠],[4♠],[5♣],[7[31m♦[0m],[5[31m♥[0m]  score = 3180
+./dummy
+	player 0 started with  [9♠],[7♣],[3[31m♦[0m],[2[31m♥[0m],[5[31m♦[0m] 
+	player 0 ended with  [9♠],[7♣],[3[31m♦[0m],[2[31m♥[0m],[5[31m♦[0m]  score = 7438
+./sean
+	player 1 started with  [8[31m♦[0m],[2[31m♥[0m],[4[31m♦[0m],[3[31m♥[0m],[9♠] 
+	player 1 ended with  [8[31m♦[0m],[2[31m♥[0m],[4[31m♦[0m],[3[31m♥[0m],[6[31m♥[0m]  score = 7457
+./dummy
+	player 0 started with  [5♠],[Q[31m♦[0m],[A♠],[Q♣],[K[31m♦[0m] 
+	player 0 ended with  [5♠],[Q[31m♦[0m],[A♠],[Q♣],[K[31m♦[0m]  score = 3772
+./sean
+	player 1 started with  [3♠],[T[31m♦[0m],[5♣],[9♠],[2♠] 
+	player 1 ended with  [3♠],[4[31m♦[0m],[5♣],[9♠],[2♠]  score = 7444
+./dummy
+	player 0 started with  [K♠],[4♣],[Q♠],[6♣],[9♣] 
+	player 0 ended with  [K♠],[4♣],[Q♠],[6♣],[9♣]  score = 6754
+./sean
+	player 1 started with  [8♠],[7[31m♥[0m],[8[31m♦[0m],[K[31m♦[0m],[5♣] 
+	player 1 ended with  [8♠],[7[31m♥[0m],[8[31m♦[0m],[2♠],[5♣]  score = 4852
+./dummy
+	player 0 started with  [7[31m♦[0m],[Q[31m♦[0m],[4[31m♦[0m],[3[31m♥[0m],[Q♠] 
+	player 0 ended with  [7[31m♦[0m],[Q[31m♦[0m],[4[31m♦[0m],[3[31m♥[0m],[Q♠]  score = 3973
+./sean
+	player 1 started with  [8♣],[T♠],[8♠],[2[31m♦[0m],[2[31m♥[0m] 
+	player 1 ended with  [8♣],[5[31m♥[0m],[8♠],[2[31m♦[0m],[2[31m♥[0m]  score = 3158
+./dummy
+	player 0 started with  [5♠],[J♠],[K♠],[7♠],[8♣] 
+	player 0 ended with  [5♠],[J♠],[K♠],[7♠],[8♣]  score = 6848
+./sean
+	player 1 started with  [8♠],[A♣],[5♠],[2[31m♦[0m],[7♠] 
+	player 1 ended with  [8♠],[6♣],[5♠],[2[31m♦[0m],[7♠]  score = 7446
+./dummy
+	player 0 started with  [9[31m♥[0m],[4♠],[J♣],[A[31m♥[0m],[8[31m♦[0m] 
+	player 0 ended with  [9[31m♥[0m],[4♠],[J♣],[A[31m♥[0m],[8[31m♦[0m]  score = 6501
+./sean
+	player 1 started with  [J♠],[T[31m♥[0m],[A[31m♥[0m],[4♣],[Q[31m♥[0m] 
+	player 1 ended with  [J♠],[T[31m♥[0m],[8[31m♦[0m],[4♣],[Q[31m♥[0m]  score = 7017
+./dummy
+	player 0 started with  [3[31m♥[0m],[J[31m♥[0m],[8[31m♥[0m],[Q♠],[4♠] 
+	player 0 ended with  [3[31m♥[0m],[J[31m♥[0m],[8[31m♥[0m],[Q♠],[4♠]  score = 7068
+./sean
+	player 1 started with  [5[31m♥[0m],[5[31m♦[0m],[2♠],[T♠],[A♠] 
+	player 1 ended with  [5[31m♥[0m],[5[31m♦[0m],[2♠],[T♠],[K[31m♥[0m]  score = 5384
+./dummy
+	player 0 started with  [8[31m♦[0m],[Q[31m♦[0m],[T♣],[A♠],[9[31m♥[0m] 
+	player 0 ended with  [8[31m♦[0m],[Q[31m♦[0m],[T♣],[A♠],[9[31m♥[0m]  score = 6386
+./sean
+	player 1 started with  [7[31m♦[0m],[5♠],[8♣],[K♣],[A♣] 
+	player 1 ended with  [7[31m♦[0m],[5♠],[8♣],[K♣],[T♣]  score = 6904
+./dummy
+	player 0 started with  [4♣],[8♣],[3♠],[T[31m♥[0m],[2♠] 
+	player 0 ended with  [4♣],[8♣],[3♠],[T[31m♥[0m],[2♠]  score = 7395
+./sean
+	player 1 started with  [7♠],[8[31m♥[0m],[3♠],[5[31m♦[0m],[4[31m♥[0m] 
+	player 1 ended with  [7♠],[8[31m♦[0m],[3♠],[5[31m♦[0m],[4[31m♥[0m]  score = 7450
+./dummy
+	player 0 started with  [6[31m♦[0m],[6[31m♥[0m],[3♣],[A[31m♦[0m],[3♠] 
+	player 0 ended with  [6[31m♦[0m],[6[31m♥[0m],[3♣],[A[31m♦[0m],[3♠]  score = 3238
+./sean
+	player 1 started with  [K[31m♥[0m],[A♠],[Q♣],[5[31m♦[0m],[3♣] 
+	player 1 ended with  [K[31m♥[0m],[7♠],[Q♣],[5[31m♦[0m],[3♣]  score = 6783
+./dummy
+	player 0 started with  [4[31m♥[0m],[T[31m♦[0m],[Q[31m♥[0m],[J[31m♥[0m],[3♣] 
+	player 0 ended with  [4[31m♥[0m],[T[31m♦[0m],[Q[31m♥[0m],[J[31m♥[0m],[3♣]  score = 7032
+./sean
+	player 1 started with  [T♣],[A♠],[6♣],[2[31m♦[0m],[3[31m♦[0m] 
+	player 1 ended with  [T♣],[7♠],[6♣],[2[31m♦[0m],[3[31m♦[0m]  score = 7401
+./dummy
+	player 0 started with  [6♣],[6[31m♥[0m],[2[31m♦[0m],[J♠],[A♣] 
+	player 0 ended with  [6♣],[6[31m♥[0m],[2[31m♦[0m],[J♠],[A♣]  score = 5112
+./sean
+	player 1 started with  [4[31m♦[0m],[5♣],[8♣],[K♣],[T[31m♦[0m] 
+	player 1 ended with  [4[31m♦[0m],[5♣],[8♣],[7[31m♥[0m],[T[31m♦[0m]  score = 7380
+./dummy
+	player 0 started with  [K♠],[5♠],[8♣],[4♣],[A♠] 
+	player 0 ended with  [K♠],[5♠],[8♣],[4♣],[A♠]  score = 6324
+./sean
+	player 1 started with  [5[31m♥[0m],[Q[31m♥[0m],[7[31m♥[0m],[2[31m♦[0m],[7[31m♦[0m] 
+	player 1 ended with  [5[31m♥[0m],[5♣],[7[31m♥[0m],[2[31m♦[0m],[7[31m♦[0m]  score = 3182
+./dummy
+	player 0 started with  [9♠],[3[31m♦[0m],[Q♠],[7[31m♥[0m],[7♣] 
+	player 0 ended with  [9♠],[3[31m♦[0m],[Q♠],[7[31m♥[0m],[7♣]  score = 4985
+./sean
+	player 1 started with  [K♠],[3♣],[6♠],[J[31m♦[0m],[6[31m♦[0m] 
+	player 1 ended with  [J♣],[3♣],[6♠],[J[31m♦[0m],[6[31m♦[0m]  score = 2884
+./dummy
+	player 0 started with  [8[31m♦[0m],[4♣],[6♠],[2♠],[T♠] 
+	player 0 ended with  [8[31m♦[0m],[4♣],[6♠],[2♠],[T♠]  score = 7390
+./sean
+	player 1 started with  [9♣],[Q[31m♥[0m],[9♠],[8[31m♦[0m],[K[31m♦[0m] 
+	player 1 ended with  [9♣],[Q[31m♥[0m],[9♠],[8[31m♦[0m],[3[31m♦[0m]  score = 4545
+./dummy
+	player 0 started with  [K[31m♥[0m],[6[31m♦[0m],[Q♣],[Q[31m♥[0m],[A[31m♦[0m] 
+	player 0 ended with  [K[31m♥[0m],[6[31m♦[0m],[Q♣],[Q[31m♥[0m],[A[31m♦[0m]  score = 3771
+./sean
+	player 1 started with  [2♣],[8♣],[5[31m♥[0m],[7[31m♦[0m],[7♠] 
+	player 1 ended with  [2♣],[T♣],[5[31m♥[0m],[7[31m♦[0m],[7♠]  score = 5047
+./dummy
+	player 0 started with  [A♠],[8[31m♥[0m],[A[31m♥[0m],[4♠],[6♣] 
+	player 0 ended with  [A♠],[8[31m♥[0m],[A[31m♥[0m],[4♠],[6♣]  score = 3517
+./sean
+	player 1 started with  [T[31m♦[0m],[K♠],[2[31m♦[0m],[8[31m♦[0m],[7♣] 
+	player 1 ended with  [T[31m♦[0m],[6[31m♦[0m],[2[31m♦[0m],[8[31m♦[0m],[7♣]  score = 7379
+./dummy
+	player 0 started with  [9♣],[A[31m♥[0m],[Q♠],[2♠],[6[31m♦[0m] 
+	player 0 ended with  [9♣],[A[31m♥[0m],[Q♠],[2♠],[6[31m♦[0m]  score = 6428
+./sean
+	player 1 started with  [3♣],[7♠],[T♠],[3[31m♦[0m],[A[31m♦[0m] 
+	player 1 ended with  [3♣],[7♠],[T♠],[3[31m♦[0m],[8♠]  score = 5916
+./dummy
+	player 0 started with  [8[31m♦[0m],[7[31m♦[0m],[A[31m♥[0m],[9♣],[5♣] 
+	player 0 ended with  [8[31m♦[0m],[7[31m♦[0m],[A[31m♥[0m],[9♣],[5♣]  score = 6611
+./sean
+	player 1 started with  [A♣],[8♣],[J[31m♦[0m],[5[31m♦[0m],[4♠] 
+	player 1 ended with  [7♣],[8♣],[J[31m♦[0m],[5[31m♦[0m],[4♠]  score = 7311
+./dummy
+	player 0 started with  [J[31m♦[0m],[J♠],[3[31m♥[0m],[6♣],[8[31m♦[0m] 
+	player 0 ended with  [J[31m♦[0m],[J♠],[3[31m♥[0m],[6♣],[8[31m♦[0m]  score = 4178
+./sean
+	player 1 started with  [8♣],[J[31m♦[0m],[4[31m♥[0m],[3[31m♦[0m],[7♠] 
+	player 1 ended with  [8♣],[3♠],[4[31m♥[0m],[3[31m♦[0m],[7♠]  score = 5948
+./dummy
+	player 0 started with  [Q♠],[8[31m♦[0m],[T[31m♦[0m],[T♠],[J♠] 
+	player 0 ended with  [Q♠],[8[31m♦[0m],[T[31m♦[0m],[T♠],[J♠]  score = 4307
+./sean
+	player 1 started with  [6♣],[8[31m♥[0m],[8[31m♦[0m],[5♣],[8♣] 
+	player 1 ended with  [6♣],[8[31m♥[0m],[8[31m♦[0m],[5♣],[Q[31m♦[0m]  score = 4772
+./dummy
+	player 0 started with  [Q[31m♥[0m],[6[31m♦[0m],[Q♠],[8[31m♥[0m],[5[31m♦[0m] 
+	player 0 ended with  [Q[31m♥[0m],[6[31m♦[0m],[Q♠],[8[31m♥[0m],[5[31m♦[0m]  score = 3956
+./sean
+	player 1 started with  [4♠],[3♠],[3[31m♥[0m],[6[31m♥[0m],[6[31m♦[0m] 
+	player 1 ended with  [4♠],[3♠],[3[31m♥[0m],[6[31m♥[0m],[4♣]  score = 3301
+./dummy
+	player 0 started with  [T♣],[8[31m♥[0m],[9♣],[6♠],[3♠] 
+	player 0 ended with  [T♣],[8[31m♥[0m],[9♣],[6♠],[3♠]  score = 7348
+./sean
+	player 1 started with  [2[31m♦[0m],[T♠],[Q[31m♦[0m],[9♠],[Q[31m♥[0m] 
+	player 1 ended with  [2[31m♦[0m],[T♠],[6♣],[9♠],[Q[31m♥[0m]  score = 7105
+./dummy
+	player 0 started with  [Q♣],[8♠],[6♣],[A♣],[3♣] 
+	player 0 ended with  [Q♣],[8♠],[6♣],[A♣],[3♣]  score = 6442
+./sean
+	player 1 started with  [2[31m♥[0m],[8♠],[7[31m♦[0m],[T♠],[A[31m♥[0m] 
+	player 1 ended with  [2[31m♥[0m],[8♠],[7[31m♦[0m],[T♠],[6[31m♥[0m]  score = 7379
+./dummy
+	player 0 started with  [5[31m♦[0m],[5[31m♥[0m],[T♣],[J♠],[Q♣] 
+	player 0 ended with  [5[31m♦[0m],[5[31m♥[0m],[T♣],[J♠],[Q♣]  score = 5406
+./sean
+	player 1 started with  [7[31m♦[0m],[T[31m♥[0m],[9♠],[J[31m♦[0m],[7♠] 
+	player 1 ended with  [7[31m♦[0m],[T[31m♥[0m],[9♠],[J[31m♥[0m],[7♠]  score = 5002
+./dummy
+	player 0 started with  [3[31m♥[0m],[T[31m♥[0m],[9♣],[3[31m♦[0m],[6♠] 
+	player 0 ended with  [3[31m♥[0m],[T[31m♥[0m],[9♣],[3[31m♦[0m],[6♠]  score = 5912
+./sean
+	player 1 started with  [4[31m♦[0m],[4♣],[8♣],[A♠],[2♣] 
+	player 1 ended with  [4[31m♦[0m],[4♣],[8♣],[6[31m♥[0m],[2♣]  score = 5732
+./dummy
+	player 0 started with  [A[31m♥[0m],[8♣],[3♠],[6[31m♦[0m],[3[31m♥[0m] 
+	player 0 ended with  [A[31m♥[0m],[8♣],[3♠],[6[31m♦[0m],[3[31m♥[0m]  score = 5787
+./sean
+	player 1 started with  [Q[31m♦[0m],[5[31m♦[0m],[5[31m♥[0m],[6♠],[5♠] 
+	player 1 ended with  [9[31m♦[0m],[5[31m♦[0m],[5[31m♥[0m],[6♠],[5♠]  score = 2251
+./dummy
+	player 0 started with  [J[31m♦[0m],[5♣],[J♠],[3♠],[8♠] 
+	player 0 ended with  [J[31m♦[0m],[5♣],[J♠],[3♠],[8♠]  score = 4181
+./sean
+	player 1 started with  [J♠],[4♠],[2[31m♦[0m],[2[31m♥[0m],[6[31m♥[0m] 
+	player 1 ended with  [3♠],[4♠],[2[31m♦[0m],[2[31m♥[0m],[6[31m♥[0m]  score = 6184
+wins [51, 49]

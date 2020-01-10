@@ -1,0 +1,28 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+addEdge	/Users/shalinpatel/Documents/Drive Sync/BCA/12th Grade/Data Structures/orders/orders.cpp	/^    void addEdge(int n, int m);$/;"	p	language:C++	struct:Graph	file:
+addEdge	/Users/shalinpatel/Documents/Drive Sync/BCA/12th Grade/Data Structures/orders/orders.cpp	/^void Graph::addEdge(int n, int m){$/;"	f	language:C++	class:Graph
+adj	/Users/shalinpatel/Documents/Drive Sync/BCA/12th Grade/Data Structures/orders/orders.cpp	/^    VI adj;$/;"	m	language:C++	struct:Vertex	file:
+CompUtil	/Users/shalinpatel/Documents/Drive Sync/BCA/12th Grade/Data Structures/orders/orders.cpp	/^    void CompUtil(int u, int id, UM& locs);$/;"	p	language:C++	struct:Graph	file:
+CompUtil	/Users/shalinpatel/Documents/Drive Sync/BCA/12th Grade/Data Structures/orders/orders.cpp	/^void Graph::CompUtil(int u, int id, UM& locs){$/;"	f	language:C++	class:Graph
+CP	/Users/shalinpatel/Documents/Drive Sync/BCA/12th Grade/Data Structures/orders/orders.cpp	/^    VB CP;$/;"	m	language:C++	struct:Graph	file:
+CPUtil	/Users/shalinpatel/Documents/Drive Sync/BCA/12th Grade/Data Structures/orders/orders.cpp	/^    void CPUtil(int u, int mytime);$/;"	p	language:C++	struct:Graph	file:
+CPUtil	/Users/shalinpatel/Documents/Drive Sync/BCA/12th Grade/Data Structures/orders/orders.cpp	/^void Graph::CPUtil(int u, int mytime){$/;"	f	language:C++	class:Graph
+DFS1	/Users/shalinpatel/Documents/Drive Sync/BCA/12th Grade/Data Structures/orders/orders.cpp	/^    void DFS1();$/;"	p	language:C++	struct:Graph	file:
+DFS1	/Users/shalinpatel/Documents/Drive Sync/BCA/12th Grade/Data Structures/orders/orders.cpp	/^void Graph::DFS1(){$/;"	f	language:C++	class:Graph
+DFS2	/Users/shalinpatel/Documents/Drive Sync/BCA/12th Grade/Data Structures/orders/orders.cpp	/^    int DFS2(UM& locs);$/;"	p	language:C++	struct:Graph	file:
+DFS2	/Users/shalinpatel/Documents/Drive Sync/BCA/12th Grade/Data Structures/orders/orders.cpp	/^int Graph::DFS2(UM& locs){$/;"	f	language:C++	class:Graph
+g	/Users/shalinpatel/Documents/Drive Sync/BCA/12th Grade/Data Structures/orders/orders.cpp	/^    VV g;$/;"	m	language:C++	struct:Graph	file:
+Graph	/Users/shalinpatel/Documents/Drive Sync/BCA/12th Grade/Data Structures/orders/orders.cpp	/^    explicit Graph(int nv);$/;"	p	language:C++	struct:Graph	file:
+Graph	/Users/shalinpatel/Documents/Drive Sync/BCA/12th Grade/Data Structures/orders/orders.cpp	/^Graph::Graph(int nv){$/;"	f	language:C++	class:Graph
+Graph	/Users/shalinpatel/Documents/Drive Sync/BCA/12th Grade/Data Structures/orders/orders.cpp	/^struct Graph{$/;"	s	language:C++	file:
+low	/Users/shalinpatel/Documents/Drive Sync/BCA/12th Grade/Data Structures/orders/orders.cpp	/^    VI low;$/;"	m	language:C++	struct:Graph	file:
+parents	/Users/shalinpatel/Documents/Drive Sync/BCA/12th Grade/Data Structures/orders/orders.cpp	/^    VI parents;$/;"	m	language:C++	struct:Graph	file:
+times	/Users/shalinpatel/Documents/Drive Sync/BCA/12th Grade/Data Structures/orders/orders.cpp	/^    VI times;$/;"	m	language:C++	struct:Graph	file:
+transporters	/Users/shalinpatel/Documents/Drive Sync/BCA/12th Grade/Data Structures/orders/orders.cpp	/^int transporters(int n, VI& tubes){$/;"	f	language:C++
+UM	/Users/shalinpatel/Documents/Drive Sync/BCA/12th Grade/Data Structures/orders/orders.cpp	/^#define UM /;"	d	language:C++	file:
+VB	/Users/shalinpatel/Documents/Drive Sync/BCA/12th Grade/Data Structures/orders/orders.cpp	/^#define VB /;"	d	language:C++	file:
+Vertex	/Users/shalinpatel/Documents/Drive Sync/BCA/12th Grade/Data Structures/orders/orders.cpp	/^    Vertex(): adj(){}$/;"	f	language:C++	struct:Vertex
+Vertex	/Users/shalinpatel/Documents/Drive Sync/BCA/12th Grade/Data Structures/orders/orders.cpp	/^struct Vertex{$/;"	s	language:C++	file:
+VI	/Users/shalinpatel/Documents/Drive Sync/BCA/12th Grade/Data Structures/orders/orders.cpp	/^#define VI /;"	d	language:C++	file:
+visited	/Users/shalinpatel/Documents/Drive Sync/BCA/12th Grade/Data Structures/orders/orders.cpp	/^    VB visited;$/;"	m	language:C++	struct:Graph	file:
+VV	/Users/shalinpatel/Documents/Drive Sync/BCA/12th Grade/Data Structures/orders/orders.cpp	/^#define VV /;"	d	language:C++	file:

@@ -1,0 +1,14 @@
+{
+    "name": "C++ Launch",
+    "type": "cppdbg",
+    "request": "launch",
+    "program": "${workspaceRoot}/run",
+    "stopAtEntry": false,
+    "customLaunchSetupCommands": [
+       { "text": "target-run", "description": "run target", "ignoreFailures": false }
+    ],
+    "launchCompleteCommand": "exec-run",
+    "osx": {
+       "MIMode": "lldb"
+    },
+ }

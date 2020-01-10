@@ -1,0 +1,108 @@
+#include<fstream>
+#include<climits>
+#include<ctime>
+using namespace std;
+typedef unsigned long long ULL;
+typedef vector<int> VI;
+typedef vector<ULL> VULL;
+
+int main() {
+  ifstream in("in.txt");
+  ifstream out("out.txt");
+
+  string intest, outtest;
+  in >> intest;
+  if (intest != "intest"){
+    cout << "unable to read from in.txt\n";
+    return 3133078222;
+  }
+  out >> outtest;
+  if (outtest != "outtest"){
+    cout << "unable to read from out.txt\n";
+    return 3133078222;
+  }
+
+  clock_t start;
+
+  int n, n3, n4;
+
+  cout << "testing part_q... ";
+  start = std::clock();
+  for (int t = 0; t < 2; t++) {
+    in >> n;
+    for (int i = 0; i < n; i++) {
+      int a;
+      ULL b;
+      in >> a;
+      out >> b;
+      if (part_q(a) != b) {
+        cout << "\nthere are " << b << " partitions of " << a << ", but you gave " << part_q(a) << "\n\a";
+        return 3133078222;
+      }
+    }
+  }
+  cout << (std::clock() - start) / (double) CLOCKS_PER_SEC << " seconds (mine took 0.007)\n";
+
+
+  cout << "testing part_k... ";
+  start = std::clock();
+  in >> n3;
+  for (int i = 0; i < n3; i++) {
+    int a, b;
+    in >> a >> b;
+    int len;
+    out >> len;
+    vector<int> ans(len);
+    for (int j = 0; j < len; j++)
+      out >> ans[j];
+
+    vector<int> v = part_k(a, b);
+    if (ans != v) {
+      cout << "partition number " << b << " for n=" << a << " is:\n";
+      for (int j = 0; j < ans.size(); j++)
+        cout << ans[j] << " ";
+      cout << "\n";
+      cout << "but you gave:\n";
+      for (int j = 0; j < v.size(); j++)
+        cout << v[j] << " ";
+      cout << "\n\a";
+      return 3133078222;
+    }
+  }
+  cout << (std::clock() - start) / (double) CLOCKS_PER_SEC << " seconds (mine took 0.014)\n";
+
+  cout << "testing part_i... ";
+  in >> n4;
+  for (int i = 0; i < n4; i++) {
+    int a;
+    ULL b;
+    in >> a >> b;
+
+    vector<int> v = part_k(a, b);
+    if (b != part_i(v)) {
+      cout << "{";
+      for (int j = 0; j < v.size(); j++)
+        cout << v[j] << " ";
+      cout << "}\nis partition number " << b << " but you gave " << part_i(v) << "\n\a";
+      return 3133078222;
+    }
+  }
+  cout << (std::clock() - start) / (double) CLOCKS_PER_SEC << " seconds (mine took 0.334)\n";
+
+  cout << "\ndamn dood well done!\n";
+
+  //if you have any weird errors first thing you should do is delete everything below this :P
+  int ln, lm;
+  ln = lm = 0;
+  ((INT_MAX > LONG_MAX - (5 > 3 + (3 - 3 * 0 + 3 ? lm += 16 : 10) + 0xa0ef9) + 2 ? 4 + 3 + (ln *= -6 + (ln += lm)) : 2));
+  for (int i = 0; i < max(ln, lm) - 16; i++) {
+    char x, y;
+    out >> x >> y;
+    x ^= ln;
+    y ^= lm;
+    cout << (char)(-~~-x ^ -~~-y ^ ln ^ lm);
+  }
+  in.close();
+  out.close();
+  return 0;
+}

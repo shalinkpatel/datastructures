@@ -1,0 +1,48 @@
+using namespace std;
+#include<fstream>
+#include<ctime>
+#include<vector>
+#include<iostream>
+#include<map>
+int main() {
+  ifstream in("in.txt");
+
+  int m, n, rr, v;
+  in >> m;
+  for (int mm = 0; mm < m; mm++) {
+    in >> n;
+    cout << n << " elements... ";
+    vector<int> a(n);
+    map<int, int> r;
+    for (int i = 0; i < n; i++) {
+      in >> a[i] >> rr;
+      r[a[i]] = rr;
+    }
+
+    clock_t start = std::clock();
+    poker_sort(a);
+    cout << "\t"<<( std::clock() - start ) / (double) CLOCKS_PER_SEC << " seconds\n";
+    cout << "\tvalidating...\t";
+    for (int i = 0; i < n - 1; i++)
+      if (r[a[i]] > r[a[i + 1]]) {
+        cout << "\n\thand " << a[i] << " = (";
+        v = a[i];
+        for (int j = 0; j < 5; j++) {
+          if (j) cout << "\t";
+          cout << (v % 52) / 4 << " " << ((v % 4) == 0 ? 'A' : (v % 4) == 1 ? 'B' : (v % 4) == 2 ? 'C' : 'D');
+          v /= 52;
+        }
+        cout << ") is better than hand " << a[i + 1] << " = (";
+        v = a[i+1];
+        for (int j = 0; j < 5; j++) {
+          if (j) cout << "\t";
+          cout << (v % 52) / 4 << " " << ((v % 4) == 0 ? 'A' : (v % 4) == 1 ? 'B' : (v % 4) == 2 ? 'C' : 'D');
+          v /= 52;
+        }
+        cout << ") but you put these in the sorted array in the opposite order\n";
+        return -1;
+      }
+    cout << "valid!\n";
+  }
+
+}
